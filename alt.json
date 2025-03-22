@@ -1,61 +1,145 @@
 {
+  "$schema": "./altstore.schema.json",
   "name": "Angry Birds Collection",
+  "identifier": "com.example.angrybirdscollection",
+  "sourceURL": "https://example.com/angrybirds.json",
   "apps": [
     {
-      "bundleIdentifier": "com.rovio.angrybirds",
       "name": "Angry Birds",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "Rovio Entertainment",
       "version": "1.0.0",
-      "versionDate": "2010-12-12",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.0.0.ipa"
+      "versionDate": "2009-12-11T00:00:00Z",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.0.0.ipa",
+      "localizedDescription": "The survival of the Angry Birds is at stake. Dish out revenge on the greedy pigs who stole their eggs. Use the unique powers of each bird to destroy the pigs' defenses.",
+      "iconURL": "https://example.com/angrybirds_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirds_screenshot1.jpg",
+        "https://example.com/angrybirds_screenshot2.jpg"
+      ]
     },
     {
-      "bundleIdentifier": "com.rovio.angrybirds",
       "name": "Angry Birds",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "Rovio Entertainment",
       "version": "1.2.0",
-      "versionDate": "2010-12-12",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.2.0.ipa"
+      "versionDate": "2010-01-15T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.2.0.ipa",
+      "localizedDescription": "The survival of the Angry Birds is at stake. Dish out revenge on the greedy pigs who stole their eggs. Use the unique powers of each bird to destroy the pigs' defenses.",
+      "iconURL": "https://example.com/angrybirds_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirds_screenshot1.jpg",
+        "https://example.com/angrybirds_screenshot2.jpg"
+      ]
     },
     {
-      "bundleIdentifier": "com.rovio.angrybirds",
       "name": "Angry Birds",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "Rovio Entertainment",
       "version": "1.2.1",
-      "versionDate": "2010-12-12",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.2.1.ipa"
+      "versionDate": "2010-02-01T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.2.1.ipa",
+      "localizedDescription": "The survival of the Angry Birds is at stake. Dish out revenge on the greedy pigs who stole their eggs. Use the unique powers of each bird to destroy the pigs' defenses.",
+      "iconURL": "https://example.com/angrybirds_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirds_screenshot1.jpg",
+        "https://example.com/angrybirds_screenshot2.jpg"
+      ]
     },
     {
-      "bundleIdentifier": "com.rovio.angrybirds",
       "name": "Angry Birds",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "Rovio Entertainment",
       "version": "1.3.1",
-      "versionDate": "2010-12-12",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.1.ipa"
+      "versionDate": "2010-03-15T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.1.ipa",
+      "localizedDescription": "The survival of the Angry Birds is at stake. Dish out revenge on the greedy pigs who stole their eggs. Use the unique powers of each bird to destroy the pigs' defenses.",
+      "iconURL": "https://example.com/angrybirds_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirds_screenshot1.jpg",
+        "https://example.com/angrybirds_screenshot2.jpg"
+      ]
     },
     {
-      "bundleIdentifier": "com.rovio.angrybirds",
       "name": "Angry Birds",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "Rovio Entertainment",
       "version": "1.3.2",
-      "versionDate": "2010-12-12",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.2.ipa"
+      "versionDate": "2010-04-01T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.2.ipa",
+      "localizedDescription": "The survival of the Angry Birds is at stake. Dish out revenge on the greedy pigs who stole their eggs. Use the unique powers of each bird to destroy the pigs' defenses.",
+      "iconURL": "https://example.com/angrybirds_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirds_screenshot1.jpg",
+        "https://example.com/angrybirds_screenshot2.jpg"
+      ]
     },
     {
-      "bundleIdentifier": "com.rovio.angrybirds",
       "name": "Angry Birds",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "Rovio Entertainment",
       "version": "1.3.3",
-      "versionDate": "2010-12-12",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.3.ipa"
+      "versionDate": "2010-04-15T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.3.ipa",
+      "localizedDescription": "The survival of the Angry Birds is at stake. Dish out revenge on the greedy pigs who stole their eggs. Use the unique powers of each bird to destroy the pigs' defenses.",
+      "iconURL": "https://example.com/angrybirds_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirds_screenshot1.jpg",
+        "https://example.com/angrybirds_screenshot2.jpg"
+      ]
     },
     {
-      "bundleIdentifier": "com.rovio.angrybirds",
       "name": "Angry Birds",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "Rovio Entertainment",
       "version": "1.3.4",
-      "versionDate": "2010-12-12",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.4.ipa"
+      "versionDate": "2010-05-01T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.4.ipa",
+      "localizedDescription": "The survival of the Angry Birds is at stake. Dish out revenge on the greedy pigs who stole their eggs. Use the unique powers of each bird to destroy the pigs' defenses.",
+      "iconURL": "https://example.com/angrybirds_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirds_screenshot1.jpg",
+        "https://example.com/angrybirds_screenshot2.jpg"
+      ]
     },
     {
-      "bundleIdentifier": "com.rovio.angrybirds",
       "name": "Angry Birds",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "Rovio Entertainment",
       "version": "1.4.0",
-      "versionDate": "2010-12-12",
-      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.4.0.ipa"
+      "versionDate": "2010-06-01T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.4.0.ipa",
+      "localizedDescription": "The survival of the Angry Birds is at stake. Dish out revenge on the greedy pigs who stole their eggs. Use the unique powers of each bird to destroy the pigs' defenses.",
+      "iconURL": "https://example.com/angrybirds_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirds_screenshot1.jpg",
+        "https://example.com/angrybirds_screenshot2.jpg"
+      ]
     }
-  ]
+  ],
+  "news": []
 }
