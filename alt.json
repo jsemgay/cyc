@@ -1,0 +1,61 @@
+{
+  "name": "Angry Birds Collection",
+  "apps": [
+    {
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "name": "Angry Birds",
+      "version": "1.0.0",
+      "versionDate": "2010-12-12",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.0.0.ipa"
+    },
+    {
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "name": "Angry Birds",
+      "version": "1.2.0",
+      "versionDate": "2010-12-12",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.2.0.ipa"
+    },
+    {
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "name": "Angry Birds",
+      "version": "1.2.1",
+      "versionDate": "2010-12-12",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.2.1.ipa"
+    },
+    {
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "name": "Angry Birds",
+      "version": "1.3.1",
+      "versionDate": "2010-12-12",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.1.ipa"
+    },
+    {
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "name": "Angry Birds",
+      "version": "1.3.2",
+      "versionDate": "2010-12-12",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.2.ipa"
+    },
+    {
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "name": "Angry Birds",
+      "version": "1.3.3",
+      "versionDate": "2010-12-12",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.3.ipa"
+    },
+    {
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "name": "Angry Birds",
+      "version": "1.3.4",
+      "versionDate": "2010-12-12",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.3.4.ipa"
+    },
+    {
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "name": "Angry Birds",
+      "version": "1.4.0",
+      "versionDate": "2010-12-12",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20/Angry%20Birds%201.4.0.ipa"
+    }
+  ]
+}
