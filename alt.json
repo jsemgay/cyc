@@ -394,6 +394,40 @@
         "https://example.com/spongebob_screenshot1.jpg",
         "https://example.com/spongebob_screenshot2.jpg"
       ]
+    },
+    {
+      "name": "Angry Birds Fix",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwars2.v1.9.24",
+      "developerName": "Rovio Entertainment",
+      "version": "1.9.24",
+      "versionDate": "2016-01-01T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://pixeldrain.com/api/file/mvW9rVcT",
+      "localizedDescription": "Join the Angry Birds in their biggest adventure yet! Based on the Star Wars movie prequels, use the Force for good against the greedy Pork Federation or choose a much darker path.",
+      "iconURL": "https://example.com/angrybirdsstarwars2_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirdsstarwars2_screenshot1.jpg",
+        "https://example.com/angrybirdsstarwars2_screenshot2.jpg"
+      ]
+    },
+    {
+      "name": "Angry Birds Star Wars II",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwars2.v1.9.24.archive",
+      "developerName": "Rovio Entertainment",
+      "version": "1.9.24",
+      "versionDate": "2016-01-01T00:00:00Z",
+      "versionDescription": "Update with new levels and features",
+      "downloadURL": "https://archive.org/download/angry-birds-collection_202208/Angry%20Birds%20Star%20Wars%20II/Angry%20Birds%20Star%20Wars%20II%201.9.24.ipa",
+      "localizedDescription": "Join the Angry Birds in their biggest adventure yet! Based on the Star Wars movie prequels, use the Force for good against the greedy Pork Federation or choose a much darker path.",
+      "iconURL": "https://example.com/angrybirdsstarwars2_icon.png",
+      "tintColor": "FF0000",
+      "size": 0,
+      "screenshotURLs": [
+        "https://example.com/angrybirdsstarwars2_screenshot1.jpg",
+        "https://example.com/angrybirdsstarwars2_screenshot2.jpg"
+      ]
     }
   ],
   "news": []
